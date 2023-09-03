@@ -29,7 +29,7 @@ Here are some of the projects you can find in this repository:
 
 Feel free to reach out, collaborate, or connect with me on:
 
-- GitHub: [github.com/YourGitHubUsername](https://github.com/DanisAlfonso)
-- LinkedIn: [linkedin.com/in/YourLinkedInProfile](https://www.linkedin.com/in/danny-ram%C3%ADrez/)
+- GitHub: [github.com/DanisAlfonso](https://github.com/DanisAlfonso)
+- LinkedIn: [linkedin.com/in/danny-ramírez](https://www.linkedin.com/in/danny-ram%C3%ADrez/)
 
 Let's learn, create, and innovate together!
