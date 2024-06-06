@@ -25,11 +25,3 @@ Here are some of the projects you can find in this repository:
 
 - **AI Experiments:** I'll share AI projects and experiments I'm working on, whether it's machine learning models, chatbots, or neural network implementations.
 
-## Contact
-
-Feel free to reach out, collaborate, or connect with me on:
-
-- GitHub: [github.com/DanisAlfonso](https://github.com/DanisAlfonso)
-- LinkedIn: [linkedin.com/in/danny-ramírez](https://www.linkedin.com/in/danny-ram%C3%ADrez/)
-
-Let's learn, create, and innovate together!
