@@ -1,6 +1,7 @@
 # Welcome to Danis Alfonso's GitHub Repository
 
-Hello there! I'm Danis Alfonso, and this is my GitHub repository. Here, I document my journey into the world of programming, data analysis, 3D, and AI. Feel free to explore my projects, provide feedback, and collaborate if you're interested in any of the topics I'm passionate about.
+Hello there! My name is Danis Alfonso Ramírez, I was born in the Central America country of Honduras in 1989. 
+and this is my GitHub repository. Here, I document my journey into the world of programming, data analysis, 3D, and AI. Feel free to explore my projects, provide feedback, and collaborate if you're interested in any of the topics I'm passionate about.
 
 ## About Me
 
