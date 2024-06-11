@@ -1,28 +1,9 @@
 # Welcome to Danis Alfonso's GitHub Repository
 
-Hello there! My name is Danis Alfonso Ramírez, I was born in the Central America country of Honduras in 1989. 
-and this is my GitHub repository. Here, I document my journey into the world of programming, data analysis, 3D, and AI. Feel free to explore my projects, provide feedback, and collaborate if you're interested in any of the topics I'm passionate about.
+My name is Danis Alfonso Ramírez, I was born in the Central America country of Honduras in 1989. From 2014 to 2019, I taught physics at various institutions in my home country, spending most of that time at the main university in Honduras, the Universidad Nacional Autónoma de Honduras (UNAH). I do not hold a PhD; I was hired primarily as an "emergency" teacher due to a shortage of personnel in the physics department, a field that, understandably, is not the most popular choice among students in that country. A lot of things has happened since then; I quit my job and I find right now far away from my home country, occupying myself, as it is not uncommon for many people, in the struggle for existence. I have visited many places, in search of what I myself do not know, a purpose, one may sometimes say, I have discovered a path the leads to the infinity of void, I have done so many things, and yet nothing at all. 
 
-## About Me
+My first encounter with programming does not date back to my childhood (I grew up in the jungle, back then I didn’t even know computers existed), as I would have liked some time ago, but rather came later. It began with the mandatory introductory C++ programming course that physics students have to take, and continued with sporadic and circumstantial uses of Python, weather in relation to teaching or for personal use. Afterward, for years and years, I had zero contact with the subject. I think that programming is not merely a source of pain, torture, anguish, torment and so on, but can also be a source of entertainment, recreation and fun, at least under the right circumstances, for some people. My programming skills are a somewhat worse than mediocre, —and, in fact, I’m being quite generous with myself here, I could more accurately say, significantly worst—but that doesn’t mean I won’t savor the bittersweet challenge of it all. 
 
-- 👨‍💻 I'm currently learning **C++** to deepen my understanding of programming and algorithms.
-- 📚 I'm working on creating a scientific library for numerical computation to apply what I've learned and contribute to the community.
-- 📱 I'm also interested in **SwiftUI** and its potential for creating beautiful, user-friendly iOS and macOS applications.
-- 📊 Data Analysis is one of my favorite domains, and I'm constantly exploring data-driven insights and visualization techniques.
-- 🌐 I have a fascination with **3D** modeling and rendering, and I'm excited to explore the creative possibilities in this field.
-- 🤖 My curiosity extends to the realm of **Artificial Intelligence (AI)**, where I aim to develop smart and innovative solutions.
+Weather by destiny, fortune or misfortune, life demands attention to other matters, yet, in my leisure moments, I work in small projects that are useful—or at least useful to me—and with any luck, they may prove beneficial to others as well. 
 
-## Projects
-
-Here are some of the projects you can find in this repository:
-
-- **Numerical Computation Library:** I'm building a library for numerical computation in C++. You'll find various algorithms, mathematical functions, and utility tools to aid in scientific computing.
-
-- **SwiftUI Showcase:** As I delve into SwiftUI, I'll share sample projects and UI components built using this framework.
-
-- **Data Analysis Projects:** I'll document my data analysis journey, including data sets, visualizations, and insights gained from various data sources.
-
-- **3D Modeling and Rendering:** Expect to see experiments, models, and renderings as I explore the world of 3D.
-
-- **AI Experiments:** I'll share AI projects and experiments I'm working on, whether it's machine learning models, chatbots, or neural network implementations.
-
+Feel free to browse my repositories and see if you find anything useful. Enjoy your programming!
